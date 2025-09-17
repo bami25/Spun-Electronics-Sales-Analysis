@@ -3,7 +3,7 @@
 -- During intial checks we discovered inconsistency in product names
 
 WITH cleaned_product AS (
-  SELECT
+    SELECT
     orders.customer_id,
     orders.id AS order_id,
     orders.purchase_ts AS purchase_date,
