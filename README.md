@@ -1,11 +1,11 @@
 # Project Background
 Spun Electronics, established in 2014, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app.
 
-The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program that has been previously underutilized. This project thoroughly analyzes and synthesizes this data to uncover critical insights that will improve Spun Electronics' commercial success.
+The company has significant amounts of data on its sales, marketing efforts, operations, product offerings, and loyalty program that has been previously underutilized. In this project I analyzed and synthesizes this data to uncover crucial insights that will improve Spun Electronics' commercial success.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
+- **Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value.
 - **Product Level Performance:**  An analysis of Spun Electronics, various product lines, understanding their impact on sales and returns.
 - **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.
 - **Regional Comparisons:** An evaluation of sales and orders by region.
@@ -14,11 +14,11 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive PowerBI dashboard can be downloaded [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/raw/refs/heads/main/Spun%20Electronics%20pbi.pbix)
 
-The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
+The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/bami25/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/bami25/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
-Targeted SQL queries regarding various business questions can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
+Targeted SQL queries regarding various business questions can be found [here.](https://github.com/bami25/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
 
 # Data Structure & Initial Checks
 
@@ -26,7 +26,7 @@ Spun Electronics' database structure contains four tables: orders, customers, ge
 
 ![Spun Electronics ERD](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics%20ERD.png)
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and perform quality checks can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
+Before starting the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and perform quality checks can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
 
 # Executive Summary
